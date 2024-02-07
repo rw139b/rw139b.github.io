@@ -1,3 +1,3 @@
 # rw139b.github.io
 
-This is ryan wensmanns public github
+This is Ryan Wensmanns public github portfolio 
